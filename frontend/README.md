@@ -2,6 +2,9 @@
 
 Fronted del proyecto final de Laboratorio 4. Interfaz de usuario construida en Vue.js. Se encarga de consumir la api y ofrecer una interfaz interactiva.
 
+### Requisitos: 
+- Docker
+
 ## Ejecución con Docker Compose
 1. **Clona el Repositorio:**
    ```bash
